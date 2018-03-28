@@ -1,1 +1,1 @@
-# neutrosophic-graph
+# neutrosophic graph
